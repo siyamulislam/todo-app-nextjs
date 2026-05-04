@@ -1,0 +1,6 @@
+npm i prisma @prisma/client
+
+ npx prisma init  
+ npx prisma validate  
+ npx prisma generate    
+ npx prisma db push           
