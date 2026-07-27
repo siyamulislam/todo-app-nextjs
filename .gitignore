@@ -43,3 +43,10 @@ next-env.d.ts
 /app/generated/prisma
 
 /app/generated/prisma
+
+
+# Prisma generated files (DON'T commit)
+prisma/generated/
+prisma/*.db
+prisma/*.db-journal
+*.db
